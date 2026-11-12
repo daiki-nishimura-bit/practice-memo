@@ -6,6 +6,6 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-      <TextField layoutX="14.0" layoutY="29.0" text="メモを記入してください" />
+      <TextField layoutX="14.0" layoutY="29.0" />
    </children>
 </AnchorPane>
