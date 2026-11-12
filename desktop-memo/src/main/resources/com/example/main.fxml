@@ -8,6 +8,7 @@
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <TextField layoutX="14.0" layoutY="29.0" />
-      <Button layoutX="14.0" layoutY="172.0" mnemonicParsing="false" text="デスクトップに表示" />
+      <Button layoutX="163.0" layoutY="176.0" mnemonicParsing="false" text="デスクトップに表示" />
+      <Button layoutX="14.0" layoutY="176.0" mnemonicParsing="false" text="保存" />
    </children>
 </AnchorPane>
