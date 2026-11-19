@@ -1,0 +1,79 @@
+<mxfile host="65bd71144e">
+    <diagram id="heVrFkCOOLLpUPd_qmhI" name="ページ-1">
+        <mxGraphModel dx="2840" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(38, 38, 38); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;メモしたことをデスクトップ上に表示する機能を持ったメモアプリ&lt;/font&gt;&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="120" width="380" x="-1654" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="メモに記入する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1480" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-3" edge="1" parent="1" style="shape=link;html=1;" value="">
+                    <mxGeometry relative="1" width="100" as="geometry">
+                        <mxPoint x="-1480" y="300" as="sourcePoint"/>
+                        <mxPoint x="-560" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="画面上に表示する&lt;div&gt;メモを選ぶ&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="-860" y="390" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="一件だけ保存できる" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1340" y="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="実際に画面上に表示する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-860" y="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="メモを取る" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1480" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-9" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ウォーキングスケルトン" vertex="1">
+                    <mxGeometry height="40" width="120" x="-1610" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="メモアプリに&lt;div&gt;書き込む&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1480" y="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="複数個保存できる" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1340" y="390" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="学生" vertex="1">
+                    <mxGeometry height="20" width="70" x="-1510" y="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-13" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="-1480" y="380" as="sourcePoint"/>
+                        <mxPoint x="-550" y="380" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="保存したメモを画面上に表示するか選ぶ" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1040" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="手動で保存する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1180" y="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="自動で保存されるようにする" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1180" y="390" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="保存したメモが画面上に表示されているか確認する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-860" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="保存したメモを見る" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1040" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="表示するかしないかの選択肢を表示する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1040" y="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="メモを消す" vertex="1">
+                    <mxGeometry height="60" width="120" x="-690" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="メモの整理" vertex="1">
+                    <mxGeometry height="60" width="120" x="-690" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="メモを削除する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-690" y="310" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
