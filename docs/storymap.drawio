@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="heVrFkCOOLLpUPd_qmhI" name="ページ-1">
-        <mxGraphModel dx="2392" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2540" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -61,7 +61,7 @@
                 <mxCell id="UcoJhLjfE6o83FiUjeeA-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="保存したメモを見る" vertex="1">
                     <mxGeometry height="60" width="120" x="-1040" y="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="UcoJhLjfE6o83FiUjeeA-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;✅&lt;/span&gt;表示するかしないかの選択肢を表示する" vertex="1">
+                <mxCell id="UcoJhLjfE6o83FiUjeeA-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="表示するかしないかの選択肢を表示する" vertex="1">
                     <mxGeometry height="60" width="120" x="-1040" y="310" as="geometry"/>
                 </mxCell>
                 <mxCell id="UcoJhLjfE6o83FiUjeeA-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="メモを消す" vertex="1">
