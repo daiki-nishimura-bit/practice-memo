@@ -29,4 +29,17 @@ public class MainController {
         }
 
     }
+
+    @FXML
+    private void deleteText() {
+
+        try {
+            Files.delete(Path.of("note.txt"));
+
+            System.out.println("削除しました！");
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }
